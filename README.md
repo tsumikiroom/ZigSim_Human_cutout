@@ -1,6 +1,6 @@
 ## ZigSim_Human_cutout
-reference: [https://www.facebook.com/100004440871313/videos/1790613411096671/](https://www.facebook.com/100004440871313/videos/1790613411096671/)
-ZIG-SIM PRO: [https://1-10.github.io/zigsim/](https://1-10.github.io/zigsim/)
+-- reference: [https://www.facebook.com/100004440871313/videos/1790613411096671/](https://www.facebook.com/100004440871313/videos/1790613411096671/)
+-- ZIG-SIM PRO: [https://1-10.github.io/zigsim/](https://1-10.github.io/zigsim/)
 ### How to use
 1. Install "ZIG-SIM PRO" on your mobile device.
 2. Check NDI and change Depth Type "DISPARITY".
